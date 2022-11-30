@@ -2962,4 +2962,5 @@ details-disclosure > details {
 .announcement-bar__message {
   font-size: 100px;
   line-height: 120px;
+  color: red;
 }
