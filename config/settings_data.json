@@ -1,5 +1,4 @@
 {
-<<<<<<< HEAD
   "current": {
     "colors_solid_button_labels": "#ffffff",
     "colors_accent_1": "#121212",
@@ -217,9 +216,6 @@
 
     ]
   },
-=======
-  "current": "Default",
->>>>>>> 8c86e12e67c1f2478abb7018045e1c38f658de2a
   "presets": {
     "Default": {
       "colors_solid_button_labels": "#ffffff",
@@ -355,13 +351,9 @@
           },
           "block_order": [
             "announcement-bar-0"
-<<<<<<< HEAD
           ],
           "settings": {
           }
-=======
-          ]
->>>>>>> 8c86e12e67c1f2478abb7018045e1c38f658de2a
         },
         "header": {
           "type": "header",
